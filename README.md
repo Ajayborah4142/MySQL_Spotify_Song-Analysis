@@ -1,4 +1,4 @@
-# MySQL_Spotify_Song-Analysis
+# MySQL_Spotify_SongAnalysis
 Spotify Data Analysis Project ...
 
 I Solved 10 Real Industrial in Spotify Songs App Using MySQL 
